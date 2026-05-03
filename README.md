@@ -3,73 +3,73 @@ This repository contains practical implementations of data science workflows —
 The goal is to provide a structured, reproducible pipeline that highlights your skills in Python, Pandas, scikit‑learn, visualization, and machine learning.
 
 1
-Data Collection
-Setup
-Gather raw data from CSVs, APIs, or databases.
+Data Collection Setup
 
-Import datasets using pandas
+- Gather raw data from CSVs, APIs, or databases.
 
-Use requests for API calls
+- Import datasets using pandas
 
-Validate schema and data types
+- Use requests for API calls
+
+- Validate schema and data types
 
 2
 Data Preprocessing
-Clean and prepare data for analysis.
+- Clean and prepare data for analysis.
 
-Handle missing values (imputation)
+- Handle missing values (imputation)
 
-Remove duplicates/outliers
+- Remove duplicates/outliers
 
-Normalize/scale numerical features
+- Normalize/scale numerical features
 
 3
 Feature Engineering
-Transform raw data into meaningful features.
+- Transform raw data into meaningful features.
 
-Encode categorical variables (OHE/Label Encoding)
+- Encode categorical variables (OHE/Label Encoding)
 
-Create temporal/spatial features
+- Create temporal/spatial features
 
-Apply dimensionality reduction (PCA)
+- Apply dimensionality reduction (PCA)
 
 4
 Exploratory Data Analysis (EDA)
-Understand patterns and relationships in the data.
+- Understand patterns and relationships in the data.
 
-Visualize distributions with Matplotlib/Seaborn
+- Visualize distributions with Matplotlib/Seaborn
 
-Correlation heatmaps
+- Correlation heatmaps
 
-Identify trends and anomalies
+- Identify trends and anomalies
 
 5
 Model Building
-Train machine learning models on processed data.
+- Train machine learning models on processed data.
 
-Split into train/test sets
+- Split into train/test sets
 
-Apply algorithms (Regression, Classification, Clustering)
+- Apply algorithms (Regression, Classification, Clustering)
 
-Tune hyperparameters with GridSearchCV
+- Tune hyperparameters with GridSearchCV
 
 6
 Model Evaluation
-Assess performance and reliability of models.
+- Assess performance and reliability of models.
 
-Use metrics like Accuracy, Precision, Recall, F1, RMSE
+- Use metrics like Accuracy, Precision, Recall, F1, RMSE
 
-Cross‑validation for robustness
+- Cross‑validation for robustness
 
-Compare multiple models
+- Compare multiple models
 
 7
 Deployment & Documentation
-Final Step
-Make models usable and shareable.
 
-Save models with joblib
+- Make models usable and shareable.
 
-Build simple APIs with Flask/FastAPI
+- Save models with joblib
 
-Document workflow in README and notebooks
+- Build simple APIs with Flask/FastAPI
+
+- Document workflow in README and notebooks
