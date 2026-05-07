@@ -31,7 +31,7 @@ Feature Engineering
 
 - Create temporal/spatial features
 
-- Apply dimensionality reduction (PCA)
+- Apply Principle dimensionality reduction (PCA)
 
 4
 Exploratory Data Analysis (EDA)
